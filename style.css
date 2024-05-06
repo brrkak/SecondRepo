@@ -5,11 +5,15 @@ body{
     }
 
 .intro_container{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
+    text-align: center;
     margin-top: 50px;
 }
+.intro_container > p{
+    font-weight: 700;
+    font-size: large;
+    margin: 0;
+}
+
 .project_container{
     margin: 50px 100px 0px 100px;
     display: flex;
