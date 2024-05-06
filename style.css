@@ -1,0 +1,31 @@
+body{
+    font-family: "Gowun Dodum", sans-serif,"Noto Serif KR", serif;
+    font-weight: 400;
+  font-style: normal;
+    }
+
+.intro_container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.project_container{
+    margin: 50px 100px 0px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.contents_box{
+    text-align: center;
+    font-weight: 700;
+    color: gray;
+    font-size: large;
+}
+.enter{
+    background-color: black;
+    color: aliceblue;
+    margin-top: 5px;
+    border-radius: 50px;
+    width: 175px;
+    height: 40px;
+}
