@@ -1,0 +1,25 @@
+.show_title{
+    text-align: center;
+    margin:80px 0 80px 0;
+}
+.show_btn{
+    position: absolute;
+    right: 50px;
+    top: 50px;
+}
+
+.contents_container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.show_container{
+    margin: 10px 30px 10px 30px;
+}
+
+.show_images{
+    width: 400px;
+    height: 400px;
+}

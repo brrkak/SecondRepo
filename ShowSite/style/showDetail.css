@@ -1,0 +1,25 @@
+.detail_container{
+    display: flex;
+    justify-content: center;
+}
+.detail_image{
+    width: 400px;
+    height: 400px;
+}
+
+.detail_contents{
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    text-align: center;
+}
+
+.detail_contents > button{
+    align-self: center;
+    width: 500px;
+
+}
+
+.detail_description{
+    text-align: center;
+}
